@@ -1,6 +1,9 @@
-[submodule "frontend"]
-	path = frontend
-	url = ./frontend
-[submodule "contract-dev"]
-	path = contract-dev
-	url = ./contract-dev
+[submodule "product-trace-frontend"]
+	path = product-trace-frontend
+	url = https://github.com/Erroders/product-trace-frontend
+[submodule "product-trace-contracts"]
+	path = product-trace-contracts
+	url = https://github.com/Erroders/product-trace-contracts
+[submodule "product_trace_subgraph"]
+	path = product_trace_subgraph
+	url = https://github.com/Erroders/product_trace_subgraph
